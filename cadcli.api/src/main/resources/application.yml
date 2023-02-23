@@ -1,10 +1,10 @@
 server:
-  port: 9090
+  port: 1111
 
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/cadcli
-    username: root
+    url: jdbc:postgresql://localhost:5432/cadcli
+    username: fabianocampos
     password: 805457
   jpa:
     generate-ddl: true
