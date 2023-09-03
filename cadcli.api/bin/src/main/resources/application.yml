@@ -1,0 +1,14 @@
+server:
+  port: 1111
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/cadcli
+    username: fabianocampos
+    password: 805457
+  jpa:
+    generate-ddl: true
+    show-sql: true
+  sql:
+    init:
+      mode: always
