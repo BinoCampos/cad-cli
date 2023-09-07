@@ -5,7 +5,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/cadcli
     username: fabianocampos
-    password: 805457
+    password: campos
   jpa:
     generate-ddl: true
     show-sql: true
