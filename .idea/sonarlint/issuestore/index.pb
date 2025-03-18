@@ -7,3 +7,13 @@ y
 Icadcli.api/src/test/java/com/fcampos/cadcli/domain/model/ClienteTest.java,e\6\e62947cbe414d55c3eb3611c3a8194990bbe88c1
 u
 Ecadcli.api/src/main/java/com/fcampos/cadcli/config/docker-compose.yml,e\e\eea52fed685b16bf4a288029874bde11e69f224f
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+?
+cadcli.api/mvnw,8\0\802321d79f60b77ba3adfaced5e0071857f6b9df
+E
+cadcli.api/.gitignore,8\e\8e9a817cfafa08c2195108cc74edd9c2792d4693
+8
+.project,f\8\f8b41ce76d7b80d2b47e91b5f92c15f00eccf187
+I
+cadcli.api/cadcli-api.iml,2\6\2642f824a2cc22c257a920bcc8298cc076d65b6d
